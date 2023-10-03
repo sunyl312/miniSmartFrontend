@@ -1,0 +1,5 @@
+this_tax_name	parent_tax_name	this_tax_id	parent_tax_id	rank	embl_code	division_id	inherited_div_flag	genetic_code_id	inherited_gc_flag	mitochondrial_genetic_code_id	inherited_mgc_flag	GenBank_hidden_flag	hidden_subtree_root_flag	comments	scientific_name	common_Names	synonym_Names
+Crataegus cuneata	Crataegus	A000001	23159	species		4	1	1	1	1	1	0	0
+V1718	Bradymonadaceae	A000002	1779135	genus		0	1	11	1	0	1	0	0
+V1718 sp007993755	V1718	A000003	A000002	species		0	1	11	1	0	1	0	0
+V1718 sp007993755	V1718	A000004	A000002	species		0	1	11	1	0	1	0	0
